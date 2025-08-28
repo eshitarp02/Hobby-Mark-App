@@ -1,4 +1,0 @@
-enum UriScheme {
-  https,
-  http,
-}
